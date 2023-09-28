@@ -1,0 +1,42 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+.navbar-title{
+    color: #4682A9;
+    font-family: 'Archivo Black', sans-serif;
+    margin-left: 20px;
+    font-weight: 900;
+}
+.navbar-title span{
+    color: black;
+    text-shadow: 2px solid red;
+}
+.nav-first-group{
+    display: flex;
+}
+.navbar-para{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-weight: 700;
+    font-family: 'Architects Daughter', cursive;
+}
+.nav-ele{
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 1px solid #4682A9;
+    margin-left: 10px;
+}
+.nav-ele a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    top: 8px;
+}
+.nav-ele-group{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 250px;
+}

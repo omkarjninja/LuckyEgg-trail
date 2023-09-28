@@ -1,0 +1,29 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+.content-title{
+    font-size: 5rem;
+    font-family: 'Bagel Fat One', cursive;
+    font-weight: 200;
+    margin-top: 50px;
+    text-transform: capitalize;
+    color: #4682A9;
+}
+.para-group{
+  display: flex;
+  margin-left: 43%;
+  margin-top: -60px;
+}
+.para-group p{
+  margin-right: 30px;
+}
+.logo{
+  margin-top: -20px;
+}
+.scroll-text{
+  position: absolute;
+  left: 85%;
+  top: 520px;
+  font-family: 'Bagel Fat One', cursive;
+  color: #4682A9;
+  font-weight: 100;
+}

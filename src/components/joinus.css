@@ -1,0 +1,53 @@
+.joinus-main-body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.joinus-body{
+    width: 80%;
+    height: 25rem;
+    background-color: #4682A9;
+    border-radius: 100px;
+}
+.joinus-content{
+    float: left;
+    width: 50%;
+    text-align: left;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+.joinus-head{
+    font-size: 4rem;;
+    font-family: 'Bagel Fat One', cursive;
+    color: white;
+}
+.joinus-para{
+    width: 350px;
+    position: relative;
+    top: -20px;
+}
+.joinus-link-grp{
+    width: 125px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: white;
+    border: 1px solid white;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.joinus-link-grp a{
+    text-decoration: none;
+    color: #4682A9;
+    position: relative;
+    top: 12px;
+    left: 30px;
+}
+/* .joinus-image-grp{
+    position: relative;
+    top: 30px;
+} */
+.joinus-img{
+    position: relative;
+    top: 30px;
+}
